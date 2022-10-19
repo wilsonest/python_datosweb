@@ -5,4 +5,4 @@ creamos un entorno
 python -m venv (nombre de entorno)
 luego activamos el entorno
 Activar entorno virtual (.\venv\Scripts\activate)
-luego ejecutamos el scrip.
+luego ejecutamos el script.
